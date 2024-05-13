@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Sabah"
+        android:id="@+id/sabah"
+        android:icon="@drawable/sabah"
+        />
+    <item android:title="Öğle"
+        android:id="@+id/ogle"
+        android:icon="@drawable/ogle"
+        />
+    <item android:title="Akşam"
+        android:id="@+id/aksam"
+        android:icon="@drawable/aksam"
+        />
+    <item android:title="Bilgiler"
+        android:id="@+id/bilgi"
+        android:icon="@drawable/info"
+        />
+
+</menu>
